@@ -1406,7 +1406,7 @@ input, select, textarea {
 		#quote > a:hover {
 			color: rgb(250, 57, 57);
 			font-weight: bold;
-			font-size: 1.50rem;
+			font-size: 1.15rem;
 		}
 		.hide-button {
 			display: none;
@@ -1552,7 +1552,28 @@ input, select, textarea {
 		max-width: 100%;
 		z-index: 3;
 	}
+		.card {
+			max-width: 30%;
+			padding: 15px;
+			border: 5px dashed rgba(102, 102, 102, 0.445);
+			border-radius: 5%;
+		}
+		.things-to-do {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-around;
+			text-align: center;
+			gap: 15px;
+		}
 
+		.card-image {
+			max-width: 100%;
+			border-radius: 5%;
+			transition: transform 0.5s ease;
+		}
+		.card-image:hover {
+			transform: scale(1.05);
+		}
 		#main article {
 			-moz-transform: translateY(0.25rem);
 			-webkit-transform: translateY(0.25rem);
@@ -1619,7 +1640,7 @@ input, select, textarea {
 					background-color: rgba(255, 255, 255, 0.175);
 				}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 820px) {
 
 			#main article {
 				padding: 3.5rem 2rem 0.5rem 2rem ;
@@ -1632,6 +1653,10 @@ input, select, textarea {
 					height: 2.25rem;
 					background-size: 14px 14px;
 				}
+			
+			.card {
+				max-width: 45%;
+			}
 
 		}
 
@@ -1639,6 +1664,12 @@ input, select, textarea {
 
 			#main article {
 				padding: 3rem 1.5rem 0.5rem 1.5rem ;
+			}
+			.card {
+				max-width: 100%;
+			}
+			.card-image {
+				max-width: 75%;
 			}
 
 		}
