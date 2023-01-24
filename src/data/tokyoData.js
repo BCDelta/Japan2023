@@ -2,11 +2,11 @@ export default [
     {
         id: 1,
         title: "Omoide Yokocho",
-        description: "Landmark alleyway featuring a selection of food stalls for simple fare and alcoholic drinks",
+        description: "Landmark alleyway featuring a selection of food stalls for simple fare and alcoholic drinks.",
         location: "1 Chome-2 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
         thumbnail: "Omoide-Yokocho.jpg",
         reservation: 1,
-        price: "$$"
+        price: "¥100 - ¥300"
     },
     {
         id: 2,
@@ -15,8 +15,7 @@ export default [
         location: "2 Chome-1 Nakase, Mihama Ward, Chiba, 261-0023, Japan",
         thumbnail: "HOLOLIVE.png",
         reservation: 1,
-        price: `$32 (Expo) 
-                $72 (Concert)`
+        price: `$32 - $72`
     },
     {
         id: 3,
@@ -49,7 +48,7 @@ export default [
         id: 6,
         title: "Akihabara",
         description: "Akihabara is a buzzing shopping hub famed for its electronics retailers and maid cafes.",
-        location: "都道437号, Chiyoda City, Tokyo",
+        location: "Akihabara, Taito City, Tokyo 110-0006, Japan",
         thumbnail: "AKIHABARA.jpg",
         reservation: 0,
         price: ""
@@ -78,7 +77,7 @@ export default [
         title: "Asakusa",
         description: `Asakusa retains the vibe of an older Tokyo, with traditional craft shops and street-food stalls along Nakamise 
         Street near the ancient Sensō-ji temple.`,
-        location: "Asakusa, Taito City, Tokyo, Japan",
+        location: "Asakusa, Taito City, Tokyo 111-0032, Japan",
         thumbnail: "ASAKUSA.jpg",
         reservation: 0,
         price: ""
@@ -99,7 +98,7 @@ export default [
         location: "12 Chome-24-7 Gotokuji, Setagaya City, Tokyo 154-0021, Japan",
         thumbnail: "GOTOKUJI.jpg",
         reservation: 0,
-        price: "$$"
+        price: ""
     },
     {
         id: 12,
@@ -108,7 +107,7 @@ export default [
         location: "2-1 Yoyogikamizonocho, Shibuya City, Tokyo 151-0052, Japan",
         thumbnail: "YOYOGI PARK.png",
         reservation: 0,
-        price: "$$"
+        price: ""
     },
     {
         id: 13,

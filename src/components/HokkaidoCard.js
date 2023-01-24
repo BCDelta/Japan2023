@@ -1,8 +1,8 @@
 import React from "react"
-export default function TokyoCard(props) {
+export default function HokkaidoCard(props) {
     return (
         <div className = "card">
-            <img className = "card-image" src={`./images/${props.img}`}></img>
+            <img className = "card-image" src={`https://BCDelta.github.io/Japan2023/images/${props.img}`}></img>
             <hr />
             <div className = "additional-content">
                 {props.price === "" ? <p>FREE</p> : <p>{props.price}</p>}

@@ -1,11 +1,11 @@
 import React from 'react'
-import TokyoData from './data/tokyoData'
-import TokyoCard from './components/TokyoCard'
+import KyotoData from './data/kyotoData'
+import KyotoCard from './components/KyotoCard'
 
 export default function Tokyo() {
-  const cards = TokyoData.map(item => {
+  const cards = KyotoData.map(item => {
     return (
-      <TokyoCard
+      <KyotoCard
         key = {item.id} 
         title = {item.title}
         description = {item.description}

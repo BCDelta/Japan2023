@@ -1,5 +1,5 @@
 import React from "react"
-export default function TokyoCard(props) {
+export default function YokohamaCard(props) {
     return (
         <div className = "card">
             <img className = "card-image" src={`./images/${props.img}`}></img>

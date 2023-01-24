@@ -5,7 +5,7 @@ export default [
         description: `Fushimi Inari-taisha is the head shrine of the kami Inari, 
         located in Fushimi-ku, Kyoto, Kyoto Prefecture, Japan.`,
         location: "68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882, Japan",
-        thumbnail: "Placeholder.png",
+        thumbnail: "Fushimi-Inari-Kyoto.jpg",
         reservation: 0,
         price: ""
     },
@@ -14,7 +14,7 @@ export default [
         title: "Kichi Kichi Omurice",
         description: "Small restaurant with a quirky chef serving up omelette rice and other western style dishes.",
         location: "185-4 Zaimokucho, Nakagyo Ward, Kyoto, 604-8017, Japan",
-        thumbnail: "Placeholder.png",
+        thumbnail: "kichi.jpg",
         reservation: 1,
         price: "$25"
     },
@@ -25,7 +25,7 @@ export default [
         of Kyoto, Japan. The temple was founded in 1164 by Taira no Kiyomori for the cloistered 
         Emperor Go-Shirakawa. It is officially known as Rengeō-in and belongs to the Myōhō-in temple complex.`,
         location: "657 Sanjusangendomawari, Higashiyama Ward, Kyoto, 605-0941, Japan",
-        thumbnail: "Placeholder.png",
+        thumbnail: "Sanjūsangen-dō.jpg",
         reservation: 0,
         price: ""
     },
@@ -36,7 +36,7 @@ export default [
         on the opposite side of the Ōi River as the train station. It is inhabited by a 
         troop of over 120 Japanese macaque monkeys.`,
         location: "Japan, 〒616-0004 Kyoto, Nishikyo Ward, Arashiyama Nakaoshitacho, 61",
-        thumbnail: "Placeholder.png",
+        thumbnail: "Arashiyama Monkey Park Iwatayama.jpg",
         reservation: 0,
         price: ""
     }

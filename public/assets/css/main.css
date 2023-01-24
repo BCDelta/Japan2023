@@ -736,6 +736,7 @@ input, select, textarea {
 		list-style: disc;
 		margin: 0 0 2rem 0;
 		padding-left: 1em;
+		user-select: none;
 	}
 
 		ul li {
@@ -1518,6 +1519,10 @@ input, select, textarea {
 				#header nav.use-middle:after {
 					display: none;
 				}
+			.things-to-do {
+				justify-content: center;
+				margin: 0 auto;
+			}
 
 		}
 
@@ -1552,16 +1557,36 @@ input, select, textarea {
 		max-width: 100%;
 		z-index: 3;
 	}
+
+	/* City Card Data */
 		.card {
 			max-width: 30%;
 			padding: 15px;
 			border: 5px dashed rgba(102, 102, 102, 0.445);
 			border-radius: 5%;
+			position: relative;
+			padding-bottom: 10%;
+		}
+		.card h1 {
+			font-size: 1.05rem;
+		}
+		.card h4, .card h6 {
+			text-transform: none;
+			font-weight: 400;
+			letter-spacing: 0.15rem;
+			word-wrap: break-word
+		}
+		.card h4 {
+			font-size: 0.75rem;
+		}
+		.card h6 {
+			font-size: 0.55rem;
 		}
 		.things-to-do {
 			display: flex;
 			flex-wrap: wrap;
-			justify-content: space-around;
+			justify-content: flex-start;
+			margin-left: 4.5%;
 			text-align: center;
 			gap: 15px;
 		}
@@ -1574,6 +1599,19 @@ input, select, textarea {
 		.card-image:hover {
 			transform: scale(1.05);
 		}
+		.location {
+			position: absolute;
+			bottom: 0;
+		}
+		.additional-content {
+			display: flex;
+			justify-content: space-around;
+		}
+		hr {
+			margin: 15px;
+		}
+
+	/* Article Info */
 		#main article {
 			-moz-transform: translateY(0.25rem);
 			-webkit-transform: translateY(0.25rem);
@@ -1660,7 +1698,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: 520px) {
 
 			#main article {
 				padding: 3rem 1.5rem 0.5rem 1.5rem ;
