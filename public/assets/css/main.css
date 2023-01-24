@@ -1412,6 +1412,25 @@ input, select, textarea {
 		.hide-button {
 			display: none;
 		}
+		.phrase-block {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-around;
+			text-align: center;
+			gap: 15px;
+		}
+		.phrase-card {
+			display: flex;
+			flex-direction: column;
+		}
+		.phrase-card h3, 
+		.phrase-card h4 {
+			text-transform: none;
+		}
+		.phrase-card  h6 {
+			margin: auto;
+			border-bottom: 2px dotted rgb(163, 163, 163);
+		}
 		body.is-article-visible #header {
 			-moz-transform: scale(0.95);
 			-webkit-transform: scale(0.95);
@@ -1478,6 +1497,10 @@ input, select, textarea {
 			#header .content p {
 				line-height: 1.875;
 			}
+			.phrase-block {
+				justify-content: center;
+				margin: 0 auto;
+			}
 
 		}
 
@@ -1522,6 +1545,14 @@ input, select, textarea {
 			.things-to-do {
 				justify-content: center;
 				margin: 0 auto;
+			}
+			.phrase-block {
+				justify-content: center;
+				margin: 0 auto;
+			}
+			.phrase-card {
+				width: 100%;
+				border-bottom: 1px solid white;
 			}
 
 		}
