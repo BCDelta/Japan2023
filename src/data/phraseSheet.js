@@ -13,5 +13,20 @@ export default [
         id: 3,
         phraseJP: "Iie, kekkodesu.",
         translation: "No, thank you."
+    },
+    {   
+        id: 4,
+        phraseJP: "hai.",
+        translation: "Yes."
+    },
+    {
+        id: 5,
+        phraseJP: "Iie.",
+        translation: "No."
+    },
+    {
+        id: 6,
+        phraseJP: "Gomennasai.",
+        translation: "Sorry."
     }
 ]

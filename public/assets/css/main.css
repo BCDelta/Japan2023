@@ -1428,8 +1428,14 @@ input, select, textarea {
 			text-transform: none;
 		}
 		.phrase-card  h6 {
+			color:rgb(250, 57, 57);
+			letter-spacing: normal;
 			margin: auto;
 			border-bottom: 2px dotted rgb(163, 163, 163);
+		}
+		.japanese, .english {
+			letter-spacing: normal;
+			margin-bottom: 15px;
 		}
 		body.is-article-visible #header {
 			-moz-transform: scale(0.95);
