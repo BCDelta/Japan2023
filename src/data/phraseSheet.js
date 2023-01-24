@@ -11,12 +11,12 @@ export default [
     },
     {
         id: 3,
-        phraseJP: "Iie, kekkodesu.",
+        phraseJP: "Iie, kekkoudesu.",
         translation: "No, thank you."
     },
     {   
         id: 4,
-        phraseJP: "hai.",
+        phraseJP: "Hai.",
         translation: "Yes."
     },
     {
@@ -28,5 +28,15 @@ export default [
         id: 6,
         phraseJP: "Gomennasai.",
         translation: "Sorry."
+    },
+    {
+        id: 7,
+        phraseJP: "Douitashimashite.",
+        translation: "You're welcome."
+    },
+    {
+        id: 8,
+        phraseJP: "Konnichiwa!",
+        translation: "Hello!"
     }
 ]

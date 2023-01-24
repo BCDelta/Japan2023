@@ -1415,13 +1415,14 @@ input, select, textarea {
 		.phrase-block {
 			display: flex;
 			flex-wrap: wrap;
-			justify-content: space-around;
+			justify-content: center;
 			text-align: center;
 			gap: 15px;
 		}
 		.phrase-card {
 			display: flex;
 			flex-direction: column;
+			width: 20%;
 		}
 		.phrase-card h3, 
 		.phrase-card h4 {
@@ -1431,11 +1432,13 @@ input, select, textarea {
 			color:rgb(250, 57, 57);
 			letter-spacing: normal;
 			margin: auto;
-			border-bottom: 2px dotted rgb(163, 163, 163);
+			border-bottom: 2px solid rgb(1, 149, 194);
 		}
 		.japanese, .english {
 			letter-spacing: normal;
-			margin-bottom: 15px;
+		}
+		.english {
+			margin-bottom: 25%;
 		}
 		body.is-article-visible #header {
 			-moz-transform: scale(0.95);
