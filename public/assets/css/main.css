@@ -1642,6 +1642,7 @@ input, select, textarea {
 		}
 		.card h1 {
 			font-size: 1.05rem;
+			word-wrap: break-word;
 		}
 		.card h4, .card h6 {
 			text-transform: none;
