@@ -24,7 +24,7 @@ export default [
         title: "Ore no Yakitori",
         description: "",
         location: "1-1-16 Oi 1F, Shinagawa 140-0014 Tokyo Prefecture",
-        thumbnail: "Placeholder.jpg",
+        thumbnail: "Ore no Yakitori.jpg",
         reservation: 0,
         price: "¥150/kabob"
     }

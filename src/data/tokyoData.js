@@ -145,7 +145,7 @@ export default [
         description: `2D Cafe in Tokyo’s Shin Okubo neighborhood isn’t called what it is because it’s a salute to settings and 
         characters fans have seen on the screen of their TV. Instead, it makes the real, three-dimensional world look like a flat illustration.`,
         location: "Japan, 〒169-0073 Tokyo, Shinjuku City, Hyakunincho, 1 Chome−7−5 座ビル 1",
-        thumbnail: "Placeholder.jpg",
+        thumbnail: "2D Cafe.jpg",
         reservation: 0,
         price: "¥600-¥1,500"
     },
@@ -157,7 +157,7 @@ export default [
         Initially a relatively simple mausoleum, Toshogu was enlarged into the spectacular complex seen today by Ieyasu's grandson Iemitsu during the first 
         half of the 17th century.`,
         location: "2301 Sannai, Nikko, Tochigi 321-1431, Japan",
-        thumbnail: "Placeholder.jpg",
+        thumbnail: "Toshogu Shrine.jpg",
         reservation: 0,
         price: "¥1300, ¥1000, ¥2100"
     },
@@ -167,7 +167,7 @@ export default [
         description: `Tsukiji Market (築地市場, Tsukiji shijō) is a major tourist attraction for both domestic and overseas visitors in Tokyo. The area contains retail 
         markets, restaurants, and associated restaurant supply stores. Before 2018, it was the largest wholesale fish and seafood market in the world.`,
         location: "5 Chome-2-1 Tsukiji, Chuo City, Tokyo 104-0045, Japan",
-        thumbnail: "Placeholder.jpg",
+        thumbnail: "Egg on Stick.jpg",
         reservation: 0,
         price: "¥258"
     },
@@ -178,7 +178,7 @@ export default [
         traditional atmosphere of the café, with tatami flooring and low dining tables, makes this experience even more unique, since it feels like playing with these 
         tiny cuties in a regular Japanese home instead of a café located on one of Tokyo's most bustling streets.`,
         location: "3f, 1 Chome-6-10 Jingumae, Shibuya City, Tokyo 150-0001, Japan",
-        thumbnail: "Placeholder.jpg",
+        thumbnail: "Mama Shiba Cafe.jpg",
         reservation: 0,
         price: "¥900/30min"
     },
@@ -187,7 +187,7 @@ export default [
         title: "Starbucks Reserve Roastery",
         description: "Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
         location: "2 Chome-19-23 Aobadai, Meguro City, Tokyo 153-0042, Japan",
-        thumbnail: "Placeholder.jpg",
+        thumbnail: "Starbucks Reserve Roastery.jpg",
         reservation: 0,
         price: "Varies"
     },
@@ -197,7 +197,7 @@ export default [
         description: `Shibuya Scramble Square is a mixed-use skyscraper connected to Shibuya Station in Shibuya, Tokyo, Japan. 
         It is part of a redevelopment of the station area.`,
         location: "2-23 Shibuya Shibuya, Tokyo, Japan",
-        thumbnail: "Placeholder.jpg",
+        thumbnail: "Shibuya Scramble Scare.jpg",
         reseveration: 0,
         price: ""
     },
@@ -206,7 +206,7 @@ export default [
         title: "Kaminari Issa",
         description: "Another matcha place, famous for their matcha beer.",
         location: "1 Chome-15-9 Hanakawado, Taito City, Tokyo 111-0033, Japan",
-        thumbnail: "Placeholder.jpg",
+        thumbnail: "Kaminari Issa.jpg",
         reservation: 0,
         price: "Varies"
     },
