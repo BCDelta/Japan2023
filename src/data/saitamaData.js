@@ -13,7 +13,7 @@ export default [
         title: "Ashikaga Flower Park",
         description: "Charming flower gardens offering 8 seasonal thematic displays & a spring wisteria festival.",
         location: "607 Hasamacho, Ashikaga, Tochigi 329-4216, Japan",
-        thumbnail: "Placeholder.jpg",
+        thumbnail: "Ashikaga Flower Park.jpg",
         reservation: 0,
         price: "¥300-¥1200"
     },
@@ -24,7 +24,7 @@ export default [
         mountains of Yamagata Prefecture. The area originally developed around a silver mine; however, these days it is better 
         known as one of Japan's prettiest onsen towns with historic ryokan lined up along the river.`,
         location: "429 Ginzanshinhata, Obanazawa, Yamagata 999-4333, Japan",
-        thumbnail: "Placeholder.jpg",
+        thumbnail: "Ginzan Onsen.jpg",
         reservation: 0,
         price: ""
     }

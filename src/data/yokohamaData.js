@@ -22,7 +22,7 @@ export default [
     {
         id: 3,
         title: "Ore no Yakitori",
-        description: "",
+        description: "Delicious Yakitori!",
         location: "1-1-16 Oi 1F, Shinagawa 140-0014 Tokyo Prefecture",
         thumbnail: "Ore no Yakitori.jpg",
         reservation: 0,

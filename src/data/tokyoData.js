@@ -197,7 +197,7 @@ export default [
         description: `Shibuya Scramble Square is a mixed-use skyscraper connected to Shibuya Station in Shibuya, Tokyo, Japan. 
         It is part of a redevelopment of the station area.`,
         location: "2-23 Shibuya Shibuya, Tokyo, Japan",
-        thumbnail: "Shibuya Scramble Scare.jpg",
+        thumbnail: "Shibuya Scramble Square.jpg",
         reseveration: 0,
         price: ""
     },
