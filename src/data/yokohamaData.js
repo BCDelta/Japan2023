@@ -18,5 +18,14 @@ export default [
         thumbnail: "cup_noodle.jpg",
         reservation: 0,
         price: "¥1000"
+    },
+    {
+        id: 3,
+        title: "Ore no Yakitori",
+        description: "",
+        location: "1-1-16 Oi 1F, Shinagawa 140-0014 Tokyo Prefecture",
+        thumbnail: "Placeholder.jpg",
+        reservation: 0,
+        price: "¥150/kabob"
     }
 ]

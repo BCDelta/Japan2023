@@ -128,5 +128,126 @@ export default [
         thumbnail: "GOLDEN GAI BAR HOPPING.png",
         reservation: 0,
         price: "Varies"
+    }, 
+    {
+        id: 15,
+        title: "Kirby Cafe",
+        description: `Walk into the cafe and enter the Whispy Woods from the Kirby games. Discover many 
+        Kirby-related decorations inside the cafe and let the game-like world transport you inside your favorite character’s world.`,
+        location: "Located on the 4th floor of Tokyo Solamachi, home of Tokyo Skytree.",
+        thumbnail: "Kirby Cafe.jpg",
+        reservation: 1,
+        price: "¥1,200-¥3,000"
+    },
+    {
+        id: 16,
+        title: "2D Cafe",
+        description: `2D Cafe in Tokyo’s Shin Okubo neighborhood isn’t called what it is because it’s a salute to settings and 
+        characters fans have seen on the screen of their TV. Instead, it makes the real, three-dimensional world look like a flat illustration.`,
+        location: "Japan, 〒169-0073 Tokyo, Shinjuku City, Hyakunincho, 1 Chome−7−5 座ビル 1",
+        thumbnail: "Placeholder.jpg",
+        reservation: 0,
+        price: "¥600-¥1,500"
+    },
+    {
+        id: 17,
+        title: "Toshogu Shrine",
+        description: `Toshogu Shrine (東照宮, Tōshōgū) is a magnificent memorial to Tokugawa Ieyasu, the founder of the Tokugawa Shogunate, which 
+        ruled Japan for over 250 years until 1868. Ieyasu is enshrined at Toshogu as the deity Tosho Daigongen, "Great Deity of the East Shining Light". 
+        Initially a relatively simple mausoleum, Toshogu was enlarged into the spectacular complex seen today by Ieyasu's grandson Iemitsu during the first 
+        half of the 17th century.`,
+        location: "2301 Sannai, Nikko, Tochigi 321-1431, Japan",
+        thumbnail: "Placeholder.jpg",
+        reservation: 0,
+        price: "¥1300, ¥1000, ¥2100"
+    },
+    {
+        id: 18, 
+        title: "Egg on a Stick",
+        description: `Tsukiji Market (築地市場, Tsukiji shijō) is a major tourist attraction for both domestic and overseas visitors in Tokyo. The area contains retail 
+        markets, restaurants, and associated restaurant supply stores. Before 2018, it was the largest wholesale fish and seafood market in the world.`,
+        location: "5 Chome-2-1 Tsukiji, Chuo City, Tokyo 104-0045, Japan",
+        thumbnail: "Placeholder.jpg",
+        reservation: 0,
+        price: "¥258"
+    },
+    {
+        id: 19,
+        title: "Mama Shiba Cafe",
+        description: `Located on Harajuku's iconic Takeshita-dori, this café is home to Mame Shiba Inu, a smaller version of Japan's popular Shiba Inu dogs. The homely, 
+        traditional atmosphere of the café, with tatami flooring and low dining tables, makes this experience even more unique, since it feels like playing with these 
+        tiny cuties in a regular Japanese home instead of a café located on one of Tokyo's most bustling streets.`,
+        location: "3f, 1 Chome-6-10 Jingumae, Shibuya City, Tokyo 150-0001, Japan",
+        thumbnail: "Placeholder.jpg",
+        reservation: 0,
+        price: "¥900/30min"
+    },
+    {
+        id: 20,
+        title: "Starbucks Reserve Roastery",
+        description: "Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability.",
+        location: "2 Chome-19-23 Aobadai, Meguro City, Tokyo 153-0042, Japan",
+        thumbnail: "Placeholder.jpg",
+        reservation: 0,
+        price: "Varies"
+    },
+    {
+        id: 21,
+        title: "Shibuya Scramble Square",
+        description: `Shibuya Scramble Square is a mixed-use skyscraper connected to Shibuya Station in Shibuya, Tokyo, Japan. 
+        It is part of a redevelopment of the station area.`,
+        location: "2-23 Shibuya Shibuya, Tokyo, Japan",
+        thumbnail: "Placeholder.jpg",
+        reseveration: 0,
+        price: ""
+    },
+    {
+        id: 22,
+        title: "Kaminari Issa",
+        description: "Another matcha place, famous for their matcha beer.",
+        location: "1 Chome-15-9 Hanakawado, Taito City, Tokyo 111-0033, Japan",
+        thumbnail: "Placeholder.jpg",
+        reservation: 0,
+        price: "Varies"
+    },
+    {
+        id: 23,
+        title: "Sendai Daikannon Statue",
+        description: `Sendai Daikannon, officially known as the Sendai Tendou Byakue Daikannon, is a large statue of 
+        Byakue Kannon bearing a gem in her hand located in Sendai, Japan. It is the tallest statue of a goddess in Japan and 
+        is the fifth tallest statue in the world at 100 metres tall as of 2023.`,
+        location: "Nakayamaminami-31-36 Sanezawa, Izumi Ward, Sendai, Miyagi 981-3217, Japan",
+        thumbnail: "Sendai Daikannon Statue.jpg",
+        reservation: 0,
+        price: "¥500"
+    },
+    {
+        id: 24,
+        title: "Shibuya Gyoza",
+        description: "God tier chinese fried dumplings.",
+        location: "Japan, 〒150-0042 Tokyo, Shibuya City, Udagawacho, 30−3 アトラス渋谷ビル 2F",
+        thumbnail: "Shibuya Gyoza.jpg",
+        reservation: 0,
+        price: "¥700"
+    },
+    {
+        id: 25,
+        title: "Suzukien",
+        description: `Located in Tokyo, Suzukien is a shop in the Asakusa district boasting the most rich-tasting matcha 
+        gelato in the world! Customers can choose among seven green tea flavors blended inside this silky frozen treat. 
+        Known for its long lines, this popular shop is well worth the wait! `,
+        location: "3-4-3 Asakusa, Taito-ku, Tokyo-to 111-0032",
+        thumbnail: "Suzukien.jpg",
+        reservation: 0,
+        price: "¥100"
+    },
+    {
+        id: 26,
+        title: "Maguroyakurogin",
+        description: "Shop located in both Tokyo and Osaka and known for carrying bluefin Tuna.",
+        location: "11-1, Nipponbashi 2-chome, Chuo-ku, Osaka 542-0073",
+        thumbnail: "Maguroyakurogin.jpg",
+        reservation: 0,
+        price: " ¥400, ¥1000, ¥1800"
     }
 ]

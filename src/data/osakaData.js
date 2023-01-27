@@ -19,5 +19,53 @@ export default [
         thumbnail: "osaka_castle.jpg",
         reservation: 0,
         price: "¥600"
-    }
+    },
+    {
+        id: 3,
+        title: "551 Horai",
+        description: `551 Horai is one of the most famous and popular food companies in Osaka, 
+        specializing in pork buns, or butaman.`,
+        location: "3 Chome-1-1 Umeda, Kita Ward, Osaka, 530-0001, Japan",
+        thumbnail: "Placeholder.jpg",
+        reseveration: 0,
+        price: "$6-$8"
+    },
+    {
+        id: 4,
+        title: "Nagashi Somen at Hirobun",
+        description: `Restaurant located on the outskirts of Kyoto, it is place where you 
+        eat somen noodles sent to you via river.`,
+        location: "87 Kuramakibunecho, Sakyo Ward, Kyoto, 601-1112, Japan",
+        thumbnail: "Placeholder.jpg",
+        reservation: 1,
+        price: "Varies"
+    },
+    {
+        id: 5,
+        title: "Zauo Fishing Market",
+        description: "Restaurant where you fish for your own dinner!",
+        location: "Japan, 〒542-0086 Osaka, Chuo Ward, Nipponbashi, 1 Chome−1−13, Sotetsu Grand Frésa, B1F",
+        thumbnail: "Placeholder.jpg",
+        reservation: 1,
+        price: "Varies"
+    },
+    {
+        id: 6,
+        title: "Ramen Chonmage",
+        description: "Ramen, wonton & other classic dishes served in a snug, modern restaurant with counter seating. Her specialty is Shio Ramen.",
+        location: "6 Chome-1-28 Tenjinbashi, Kita Ward, Osaka, 530-0041, Japan",
+        thumbnail: "Placeholder.jpg",
+        reservation: 0,
+        price: "Varies"
+    },
+    {
+        id: 7,
+        title: "Shinsekai",
+        description: `Shinsekai (新世界, lit. "New World") is a district in Osaka that was developed before the war and then neglected in the decades 
+        afterwards. At the district's center stands Tsutenkaku Tower, the nostalgia-evoking symbol of Shinsekai.`,
+        location: "2 Chome Ebisuhigashi, Naniwa Ward, Osaka, 556-0002, Japan",
+        thumbnail: "Placeholder.jpg",
+        reservation: 0,
+        price: "Varies"
+    },
 ]
