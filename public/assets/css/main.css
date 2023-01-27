@@ -1630,7 +1630,26 @@ input, select, textarea {
 		max-width: 100%;
 		z-index: 3;
 	}
-
+	/* Back to Top pop up */
+	#back-to-top {
+		opacity: 0;
+		background:rgba(0, 152, 240, 0.87);
+		border: none;
+		transition: opacity 0.5s ease;
+		box-shadow: 0px 2px 9px 0px rgba(0, 0, 0, 0.5);
+		margin: 1%;
+		position: fixed;
+		bottom: 0;
+		right: 0;
+		padding: 5px 25px;
+		cursor: pointer;
+	}
+	#back-to-top:active {
+		background:rgba(2, 93, 146, 0.87);
+	}
+	#back-to-top:hover {
+		background:rgba(2, 93, 146, 0.87);
+	}
 	/* City Card Data */
 		.card {
 			max-width: 30%;
