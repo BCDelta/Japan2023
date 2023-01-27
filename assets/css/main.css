@@ -1393,6 +1393,7 @@ input, select, textarea {
 			border-left: 0;
 		}
 
+		/* Quote Button */
 		#quote {
 			position: absolute;
 			top: 1.5%;
@@ -1411,6 +1412,47 @@ input, select, textarea {
 		}
 		.hide-button {
 			display: none;
+		}
+		/* Phrases Section */
+		.phrase-block {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			text-align: center;
+			gap: 15px;
+		}
+		.phrase-card {
+			display: flex;
+			flex-direction: column;
+			width: 20%;
+		}
+		.phrase-card h3, 
+		.phrase-card h4 {
+			text-transform: none;
+		}
+		.phrase-card  h6 {
+			color:rgb(250, 57, 57);
+			letter-spacing: normal;
+			margin: auto;
+			border-bottom: 2px solid rgb(1, 149, 194);
+		}
+		.japanese, .english {
+			letter-spacing: normal;
+		}
+		.english {
+			margin-bottom: 25%;
+		}
+
+		/* Filters */ 
+		.filters button > h5 {
+			line-height: inherit;
+		}
+		.filters {
+			display: flex;
+			justify-content: flex-end;
+			align-items: baseline;
+			gap: 15px;
+			padding: 2.5% 0;
 		}
 		body.is-article-visible #header {
 			-moz-transform: scale(0.95);
@@ -1478,6 +1520,27 @@ input, select, textarea {
 			#header .content p {
 				line-height: 1.875;
 			}
+			.phrase-block {
+				justify-content: center;
+				margin: 0 auto;
+			}
+			.filters {
+				flex-direction: column;
+				text-align: center;
+				justify-content: center;
+				margin: 0 auto;
+				max-width: 75%;
+				align-items: initial;
+			}
+			.filters h3 {
+				border-bottom: 1px solid white;
+				text-align: center;
+				margin: 0 auto;
+				width: 50%;
+			}
+			.things-to-do {
+				margin-left: 6% !important;
+			}
 
 		}
 
@@ -1520,8 +1583,18 @@ input, select, textarea {
 					display: none;
 				}
 			.things-to-do {
+				margin-left: 0% !important;
+			}
+			.phrase-block {
 				justify-content: center;
 				margin: 0 auto;
+			}
+			.phrase-card {
+				width: 100%;
+				border-bottom: 1px solid white;
+			}
+			.english {
+				margin-bottom: 5%;
 			}
 
 		}
@@ -1586,7 +1659,7 @@ input, select, textarea {
 			display: flex;
 			flex-wrap: wrap;
 			justify-content: flex-start;
-			margin-left: 4.5%;
+			margin-left: 6%;
 			text-align: center;
 			gap: 15px;
 		}
