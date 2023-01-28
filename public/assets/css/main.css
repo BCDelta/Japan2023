@@ -1632,6 +1632,8 @@ input, select, textarea {
 	}
 	/* Back to Top pop up */
 	#back-to-top {
+		display: flex;
+		align-items: center;
 		opacity: 0;
 		background:rgba(0, 152, 240, 0.87);
 		border: none;
@@ -1641,14 +1643,20 @@ input, select, textarea {
 		position: fixed;
 		bottom: 0;
 		right: 0;
-		padding: 5px 25px;
+		padding: 5px 15px;
 		cursor: pointer;
+		z-index: 99;
+		font-weight: bold;
 	}
 	#back-to-top:active {
 		background:rgba(2, 93, 146, 0.87);
 	}
 	#back-to-top:hover {
 		background:rgba(2, 93, 146, 0.87);
+	}
+	#back-to-top span {
+		font-size: inherit;
+		padding-right: 5px;
 	}
 	/* City Card Data */
 		.card {

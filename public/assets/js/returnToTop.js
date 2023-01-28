@@ -1,6 +1,5 @@
 window.addEventListener("scroll", () => {
-    console.log("hello");
-    if(window.scrollY > 500) {
+    if(window.scrollY > 4567) {
         document.getElementById("back-to-top").style.opacity = "1";
         console.log("hello");
     }

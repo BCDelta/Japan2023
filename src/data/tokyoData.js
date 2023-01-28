@@ -10,12 +10,12 @@ export default [
     },
     {
         id: 2,
-        title: "Hololive Concert",
-        description: "2023 Hololive super concert featuring most, if not, all Hololive members across 3 days.",
-        location: "2 Chome-1 Nakase, Mihama Ward, Chiba, 261-0023, Japan",
-        thumbnail: "HOLOLIVE.png",
-        reservation: 1,
-        price: `$32 - $72`
+        title: "Gyukatsu Motomura",
+        description: "",
+        location: "4-11-8 Roppongi, Minato-ku, Tokyo French Building B1F",
+        thumbnail: "Gyukatsu Motomura.jpg",
+        reservation: 0,
+        price: "¥800-¥2500"
     },
     {
         id: 3,
