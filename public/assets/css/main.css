@@ -1671,11 +1671,12 @@ input, select, textarea {
 		.card h1 {
 			font-size: 1.05rem;
 			word-wrap: break-word;
+			letter-spacing: 0.2rem;
 		}
 		.card h4, .card h6 {
 			text-transform: none;
 			font-weight: 400;
-			letter-spacing: 0.15rem;
+			letter-spacing: 0.1rem;
 			word-wrap: break-word
 		}
 		.card h4 {
