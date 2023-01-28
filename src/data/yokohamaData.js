@@ -8,16 +8,18 @@ export default [
         location: "279-25 Yamashitachō, Naka Ward, Yokohama, Kanagawa 231-0023, Japan",
         thumbnail: "GUNDAM.jpeg",
         reservation: 0,
-        price: "¥1650"
+        price: "¥1650",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_1_102"
     },
     {
         id: 2,
-        title: "Cup Noodle Museum",
+        title: "Cup Noodles Museum",
         description: "CupNoodles Museum Yokohama is a museum dedicated to instant noodles and Cup Noodles, as well as its creator and founder, Momofuku Ando.",
         location: "2 Chome-3-4 Shinko, Naka Ward, Yokohama, Kanagawa 231-0001, Japan",
         thumbnail: "cup_noodle.jpg",
         reservation: 0,
-        price: "¥1000"
+        price: "¥1000",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_145"
     },
     {
         id: 3,
@@ -26,6 +28,7 @@ export default [
         location: "1-1-16 Oi 1F, Shinagawa 140-0014 Tokyo Prefecture",
         thumbnail: "Ore no Yakitori.jpg",
         reservation: 0,
-        price: "¥150/kabob"
+        price: "¥150/kabob",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_156"
     }
 ]
