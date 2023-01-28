@@ -8,7 +8,8 @@ export default [
         location: "5-16 Omachi, Hakodate 040-0052 Hokkaido",
         thumbnail: "bentenzushi.jpg",
         reservation: 0,
-        price: "Varies"
+        price: "Varies",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_221"
     },
     {
         id: 2,
@@ -17,7 +18,8 @@ export default [
         location: "Japan, 〒064-0805 Hokkaido, Sapporo, Chuo Ward, Minami 5 Jonishi, 3 Chome−6N・グランデビル 1F",
         thumbnail: "Ganso Ramen Yokocho.jpg",
         reservation: 0,
-        price: "Varies"
+        price: "Varies",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_236"
     },
     {
         id: 3,
@@ -28,7 +30,8 @@ export default [
         location: "Minami Ward, ニセコ町 Abuta District, Hokkaido 048-1541, Japan",
         thumbnail: "Shikotsu-Toya National Park.jpg",
         reservation: 0,
-        price: ""
+        price: "",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.gc6f972163_0_8"
     },
     {
         id: 4,
@@ -38,7 +41,8 @@ export default [
         location: "Japan, 〒005-0862 Hokkaido, Sapporo, Minami Ward, Takino, 2",
         thumbnail: "Beer Museum.jpg",
         reservation: 0,
-        price: ""
+        price: "",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a7a6e95ae2_0_22"
     },
     {
         id: 5,
@@ -49,6 +53,7 @@ export default [
         location: "Japan, 〒005-0862 Hokkaido, Sapporo, Minami Ward, Takino, 2",
         thumbnail: "Buddha.jpg",
         reservation: 0,
-        price: ""
+        price: "",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a7a6e95ae2_0_10"
     }
 ]

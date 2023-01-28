@@ -7,7 +7,8 @@ export default [
         location: "1 Chome-1-88 Oyodonaka, Kita Ward, Osaka, 531-6023, Japan",
         thumbnail: "Umeda Sky Building.jpg",
         reservation: 0,
-        price: ""
+        price: "",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_183"
     },
     {
         id: 2,
@@ -18,7 +19,8 @@ export default [
         location: "Japan, 〒540-0002 Osaka, Chuo Ward, Osakajo, １番１号",
         thumbnail: "osaka_castle.jpg",
         reservation: 0,
-        price: "¥600"
+        price: "¥600",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_2_35"
     },
     {
         id: 3,
@@ -28,7 +30,8 @@ export default [
         location: "3 Chome-1-1 Umeda, Kita Ward, Osaka, 530-0001, Japan",
         thumbnail: "511 Horai.jpg",
         reseveration: 0,
-        price: "$6-$8"
+        price: "$6-$8",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_6"
     },
     {
         id: 4,
@@ -38,7 +41,8 @@ export default [
         location: "87 Kuramakibunecho, Sakyo Ward, Kyoto, 601-1112, Japan",
         thumbnail: "Nagashi Somen at Hirobun.jpg",
         reservation: 1,
-        price: "Varies"
+        price: "Varies",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_24"
     },
     {
         id: 5,
@@ -47,7 +51,8 @@ export default [
         location: "Japan, 〒542-0086 Osaka, Chuo Ward, Nipponbashi, 1 Chome−1−13, Sotetsu Grand Frésa, B1F",
         thumbnail: "Zauo Fishing Market.jpg",
         reservation: 1,
-        price: "Varies"
+        price: "Varies",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_162"
     },
     {
         id: 6,
@@ -56,7 +61,8 @@ export default [
         location: "6 Chome-1-28 Tenjinbashi, Kita Ward, Osaka, 530-0041, Japan",
         thumbnail: "Ramen Chonmage.jpg",
         reservation: 0,
-        price: "Varies"
+        price: "Varies",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_102"
     },
     {
         id: 7,
@@ -66,6 +72,7 @@ export default [
         location: "2 Chome Ebisuhigashi, Naniwa Ward, Osaka, 556-0002, Japan",
         thumbnail: "Shinsekai.jpg",
         reservation: 0,
-        price: "Varies"
+        price: "Varies",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_132"
     },
 ]

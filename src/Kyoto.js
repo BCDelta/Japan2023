@@ -25,6 +25,7 @@ export default function Tokyo() {
         location = {item.location}
         price = {item.price}
         reservation = {item.reservation}
+        link = {item.link}
         number = {setting}
       />
     )

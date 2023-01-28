@@ -1647,6 +1647,7 @@ input, select, textarea {
 		cursor: pointer;
 		z-index: 99;
 		font-weight: bold;
+		height: 5%;
 	}
 	#back-to-top:active {
 		background:rgba(2, 93, 146, 0.87);

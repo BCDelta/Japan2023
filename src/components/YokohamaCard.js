@@ -18,7 +18,9 @@ export default function YokohamaCard(props) {
     
     return (
         <div className = "card" style = {toggleStyles}>
-            <img className = "card-image" src={`https://BCDelta.github.io/Japan2023/images/${props.img}`}></img>
+            <a href={props.link} target="_blank">
+                <img className = "card-image" src={`https://BCDelta.github.io/Japan2023/images/${props.img}`}></img>
+            </a>
             <hr />
             <div className = "additional-content">
                 {props.price === "" ? <p>FREE</p> : <p>Price: {props.price}</p>}

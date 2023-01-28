@@ -6,7 +6,8 @@ export default [
         location: "Japan, 〒359-0023 Saitama, Tokorozawa, Higashitokorozawawada, 3 Chome-3 1-3",
         thumbnail: "sakura_town.jpg",
         reservation: 0,
-        price: "¥500"
+        price: "¥500",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_2_41"
     },
     {
         id: 2,
@@ -15,7 +16,8 @@ export default [
         location: "607 Hasamacho, Ashikaga, Tochigi 329-4216, Japan",
         thumbnail: "Ashikaga Flower Park.jpg",
         reservation: 0,
-        price: "¥300-¥1200"
+        price: "¥300-¥1200",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_138"
     },
     {
         id: 3,
@@ -26,6 +28,7 @@ export default [
         location: "429 Ginzanshinhata, Obanazawa, Yamagata 999-4333, Japan",
         thumbnail: "Ginzan Onsen.jpg",
         reservation: 0,
-        price: ""
+        price: "",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_114"
     }
 ]

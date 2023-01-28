@@ -6,7 +6,8 @@ export default [
         location: "1 Chome-2 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
         thumbnail: "Omoide-Yokocho.jpg",
         reservation: 1,
-        price: "¥100 - ¥300"
+        price: "¥100 - ¥300",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_97"
     },
     {
         id: 2,
@@ -15,7 +16,8 @@ export default [
         location: "4-11-8 Roppongi, Minato-ku, Tokyo French Building B1F",
         thumbnail: "Gyukatsu Motomura.jpg",
         reservation: 0,
-        price: "¥800-¥2500"
+        price: "¥800-¥2500",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_198"
     },
     {
         id: 3,
@@ -24,7 +26,8 @@ export default [
         location: "Japan, 〒160-0022 Tokyo, Shinjuku City, Shinjuku, 3 Chome−34−11 B1F・6F Peace Bldg.",
         thumbnail: "ICHIRAN.jpg",
         reservation: 0,
-        price: "¥890 - ¥1490"
+        price: "¥890 - ¥1490",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_2_11"
     },
     {
         id: 4,
@@ -33,7 +36,8 @@ export default [
         location: "2F Kondo Building, 2-27-16 Minamiikebukuro, Toshima-ku, Tokyo 171-0022",
         thumbnail: "COLORSOL.jpg",
         reservation: 0,
-        price: "¥980"
+        price: "¥980",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_21"
     },
     {
         id: 5,
@@ -42,7 +46,8 @@ export default [
         location: "3 Chome-28-7 Kamijujo, Kita City, Tokyo 114-0034, Japan",
         thumbnail: "SANKUKI UDON IWAI.jpg",
         reservation: 0,
-        price: "¥980"
+        price: "¥980",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_32"
     },
     {
         id: 6,
@@ -51,7 +56,8 @@ export default [
         location: "Akihabara, Taito City, Tokyo 110-0006, Japan",
         thumbnail: "AKIHABARA.jpg",
         reservation: 0,
-        price: ""
+        price: "",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_45"
     },
     {
         id: 7,
@@ -60,7 +66,8 @@ export default [
         location: "5 Chome-52-1 Nakano, Nakano City, Tokyo 164-0001, Japan",
         thumbnail: "TANTANMEN HOZUKI.jpg",
         reservation: 0,
-        price: "¥850 - ¥950"
+        price: "¥850 - ¥950",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_4_5"
     },
     {
         id: 8,
@@ -70,7 +77,8 @@ export default [
         location: "J〒150-8377 Tokyo, Shibuya City, Udagawacho, 15−1 渋谷PARCO 6F",
         thumbnail: "POKÉMON CENTER (SHIBUYA).png",
         reservation: 0,
-        price: ""
+        price: "",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_1_157"
     },
     {
         id: 9,
@@ -80,7 +88,8 @@ export default [
         location: "Asakusa, Taito City, Tokyo 111-0032, Japan",
         thumbnail: "ASAKUSA.jpg",
         reservation: 0,
-        price: ""
+        price: "",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_55"
     },
     {
         id: 10,
@@ -89,7 +98,8 @@ export default [
         location: "1 Chome-4 Daiba, Minato City, Tokyo 135-0091, Japan",
         thumbnail: "ODAIBA SEASIDE PARK.jpg",
         reservation: 0,
-        price: ""
+        price: "",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_65"
     },
     {
         id: 11,
@@ -98,7 +108,8 @@ export default [
         location: "12 Chome-24-7 Gotokuji, Setagaya City, Tokyo 154-0021, Japan",
         thumbnail: "GOTOKUJI.jpg",
         reservation: 0,
-        price: ""
+        price: "",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_106"
     },
     {
         id: 12,
@@ -107,7 +118,8 @@ export default [
         location: "2-1 Yoyogikamizonocho, Shibuya City, Tokyo 151-0052, Japan",
         thumbnail: "YOYOGI PARK.png",
         reservation: 0,
-        price: ""
+        price: "",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_115"
     },
     {
         id: 13,
@@ -116,7 +128,8 @@ export default [
         location: "4 Chome-2-8 Shibakoen, Minato City, Tokyo 105-0011, Japan",
         thumbnail: "TOKYO TOWER.png",
         reservation: 0,
-        price: "¥1,200"
+        price: "¥1,200",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_138"
     },
     {
         id: 14,
@@ -127,7 +140,8 @@ export default [
         location: "〒160-0021 Tokyo, Shinjuku City, Kabukicho, 1 Chome-1-6 2F",
         thumbnail: "GOLDEN GAI BAR HOPPING.png",
         reservation: 0,
-        price: "Varies"
+        price: "Varies",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_156"
     }, 
     {
         id: 15,
@@ -137,7 +151,8 @@ export default [
         location: "Located on the 4th floor of Tokyo Solamachi, home of Tokyo Skytree.",
         thumbnail: "Kirby Cafe.jpg",
         reservation: 1,
-        price: "¥1,200-¥3,000"
+        price: "¥1,200-¥3,000",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_0"
     },
     {
         id: 16,
@@ -147,7 +162,8 @@ export default [
         location: "Japan, 〒169-0073 Tokyo, Shinjuku City, Hyakunincho, 1 Chome−7−5 座ビル 1",
         thumbnail: "2D Cafe.jpg",
         reservation: 0,
-        price: "¥600-¥1,500"
+        price: "¥600-¥1,500",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_18"
     },
     {
         id: 17,
@@ -159,7 +175,8 @@ export default [
         location: "2301 Sannai, Nikko, Tochigi 321-1431, Japan",
         thumbnail: "Toshogu Shrine.jpg",
         reservation: 0,
-        price: "¥1300, ¥1000, ¥2100"
+        price: "¥1300, ¥1000, ¥2100",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_12"
     },
     {
         id: 18, 
@@ -169,7 +186,8 @@ export default [
         location: "5 Chome-2-1 Tsukiji, Chuo City, Tokyo 104-0045, Japan",
         thumbnail: "Egg on Stick.jpg",
         reservation: 0,
-        price: "¥258"
+        price: "¥258",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_36"
     },
     {
         id: 19,
@@ -180,7 +198,8 @@ export default [
         location: "3f, 1 Chome-6-10 Jingumae, Shibuya City, Tokyo 150-0001, Japan",
         thumbnail: "Mama Shiba Cafe.jpg",
         reservation: 0,
-        price: "¥900/30min"
+        price: "¥900/30min",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_42"
     },
     {
         id: 20,
@@ -189,7 +208,8 @@ export default [
         location: "2 Chome-19-23 Aobadai, Meguro City, Tokyo 153-0042, Japan",
         thumbnail: "Starbucks Reserve Roastery.jpg",
         reservation: 0,
-        price: "Varies"
+        price: "Varies",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_180"
     },
     {
         id: 21,
@@ -199,7 +219,8 @@ export default [
         location: "2-23 Shibuya Shibuya, Tokyo, Japan",
         thumbnail: "Shibuya Scramble Square.jpg",
         reseveration: 0,
-        price: ""
+        price: "",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_90"
     },
     {
         id: 22,
@@ -208,7 +229,8 @@ export default [
         location: "1 Chome-15-9 Hanakawado, Taito City, Tokyo 111-0033, Japan",
         thumbnail: "Kaminari Issa.jpg",
         reservation: 0,
-        price: "Varies"
+        price: "Varies",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_108"
     },
     {
         id: 23,
@@ -219,7 +241,8 @@ export default [
         location: "Nakayamaminami-31-36 Sanezawa, Izumi Ward, Sendai, Miyagi 981-3217, Japan",
         thumbnail: "Sendai Daikannon Statue.jpg",
         reservation: 0,
-        price: "¥500"
+        price: "¥500",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_120"
     },
     {
         id: 24,
@@ -228,7 +251,8 @@ export default [
         location: "Japan, 〒150-0042 Tokyo, Shibuya City, Udagawacho, 30−3 アトラス渋谷ビル 2F",
         thumbnail: "Shibuya Gyoza.jpg",
         reservation: 0,
-        price: "¥700"
+        price: "¥700",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_144"
     },
     {
         id: 25,
@@ -239,7 +263,8 @@ export default [
         location: "3-4-3 Asakusa, Taito-ku, Tokyo-to 111-0032",
         thumbnail: "Suzukien.jpg",
         reservation: 0,
-        price: "¥100"
+        price: "¥100",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_150"
     },
     {
         id: 26,
@@ -248,6 +273,7 @@ export default [
         location: "11-1, Nipponbashi 2-chome, Chuo-ku, Osaka 542-0073",
         thumbnail: "Maguroyakurogin.jpg",
         reservation: 0,
-        price: " ¥400, ¥1000, ¥1800"
+        price: " ¥400, ¥1000, ¥1800",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_78"
     }
 ]

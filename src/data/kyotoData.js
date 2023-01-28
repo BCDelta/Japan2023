@@ -7,7 +7,8 @@ export default [
         location: "68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882, Japan",
         thumbnail: "Fushimi-Inari-Kyoto.jpg",
         reservation: 0,
-        price: ""
+        price: "",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_165"
     },
     {
         id: 2,
@@ -16,7 +17,8 @@ export default [
         location: "185-4 Zaimokucho, Nakagyo Ward, Kyoto, 604-8017, Japan",
         thumbnail: "kichi.jpg",
         reservation: 1,
-        price: "$25"
+        price: "$25",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_174"
     },
     {
         id: 3,
@@ -27,7 +29,8 @@ export default [
         location: "657 Sanjusangendomawari, Higashiyama Ward, Kyoto, 605-0941, Japan",
         thumbnail: "Sanjūsangen-dō.jpg",
         reservation: 0,
-        price: ""
+        price: "",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_202"
     },
     {
         id: 4,
@@ -38,6 +41,7 @@ export default [
         location: "Japan, 〒616-0004 Kyoto, Nishikyo Ward, Arashiyama Nakaoshitacho, 61",
         thumbnail: "Arashiyama Monkey Park Iwatayama.jpg",
         reservation: 0,
-        price: ""
+        price: "",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_192"
     }
 ]
