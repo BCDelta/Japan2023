@@ -35,7 +35,7 @@ export default [
         description: "Modern izakaya restaurant",
         location: "2F Kondo Building, 2-27-16 Minamiikebukuro, Toshima-ku, Tokyo 171-0022",
         thumbnail: "COLORSOL.jpg",
-        reservation: 0,
+        reservation: 1,
         price: "¥980",
         link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_21"
     },

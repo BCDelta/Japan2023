@@ -38,5 +38,15 @@ export default [
         id: 8,
         phraseJP: "Konnichiwa!",
         translation: "Hello!"
+    },
+    {
+        id: 9,
+        phraseJP: "Kore wa ikuradesuka?",
+        translation: "How much is this?"
+    },
+    {
+        id: 10,
+        phraseJP: "Toire wa dokodesuka",
+        translation: "Where is the restroom?"
     }
 ]
