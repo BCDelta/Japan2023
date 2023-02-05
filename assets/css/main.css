@@ -1710,6 +1710,9 @@ input, select, textarea {
 			display: flex;
 			justify-content: space-around;
 		}
+		.additional-content p {
+			font-size: 0.75rem;
+		}
 		hr {
 			margin: 15px;
 		}
