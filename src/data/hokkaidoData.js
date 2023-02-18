@@ -55,5 +55,27 @@ export default [
         reservation: 0,
         price: "",
         link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a7a6e95ae2_0_10"
+    },
+    {
+        id: 6,
+        title: "Soup Curry Samurai",
+        description: `This soup curry chains' philosophy is to put its focus and appreciation into 5 disciplines; the soup, the rice, the 
+        vegetables, the atmosphere, and the customer service. The thing which differs this soup curry restaurant from other soup curries is its 
+        extras that can be added which really makes this one the top soup curry restaurants around.`,
+        location: "Japan, 〒060-0063 Hokkaido, Sapporo, Chuo Ward, Minami 3 Jonishi, 6 Chome-1-3 ティアラ３６ 2F",
+        thumbnail: "soup_city.jpg",
+        reservation: 0,
+        price: "$10",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_210"
+    },
+    {
+        id: 7,
+        title: "Sapporo Genghis Khan",
+        description: "Delicious lamb bbq",
+        location: "Japan, 〒064-0806 Hokkaido, Sapporo, Chuo Ward, Minami 6 Jonishi, 6 Chome-7-1 水曜日休み 月1回火曜休み 予約不可 第６旭観光ビル 1階",
+        thumbnail: "Sapporo Genghis Khan.jpg",
+        reservation: 0,
+        price: "¥3000",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_84"
     }
 ]

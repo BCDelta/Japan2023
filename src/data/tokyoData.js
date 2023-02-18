@@ -275,5 +275,35 @@ export default [
         reservation: 0,
         price: " ¥400, ¥1000, ¥1800",
         link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_78"
+    },
+    {
+        id: 27,
+        title: "Hinatoriyama",
+        description: "Japanese sushi restaurant where plates are delivered via a small stream.",
+        location: "1602-4 Kamiyugi, Hachioji, Tokyo 192-0373, Japan",
+        thumbnail: "Hinatoriyama.jpg",
+        reservation: 0,
+        price: "¥3,100-¥5,940",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_60"
+    },
+    {
+        id: 28,
+        title: "Zao Fox Village",
+        description: "Rural animal sanctuary in Shiroishi where hundreds of foxes roam freely.",
+        location: "Kawarago-11-3 Fukuokayatsumiya, Shiroishi, Miyagi 989-0733",
+        thumbnail: "zao_fox_village.jpg",
+        reservation: 0,
+        price: "¥1000",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_54"
+    },
+    {
+        id: 29,
+        title: "Shibuya Parco",
+        description: "Shopping center in Shibuya featuring events and attractions.",
+        location: "15-1 Udagawacho, Shibuya City, Tokyo 150-0042, Japan",
+        thumbnail: "Shibuya_Parco.jpg",
+        reservation: 0,
+        price: "",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_192"
     }
 ]

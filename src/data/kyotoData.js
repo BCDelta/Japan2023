@@ -43,5 +43,15 @@ export default [
         reservation: 0,
         price: "",
         link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_192"
+    },
+    {
+        id: 5,
+        title: "Kyozuan",
+        description: "Kyozuan is popular for its tofu soft ice cream made from organic soy beans. When held upside down, the ice cream doesn't fall because it's so rich.",
+        location: "2-1 Sagatenryuji Tateishicho, Ukyo Ward, Kyoto, 616-8375, Japan",
+        thumbnail: "kyozuan.jpg",
+        reservation: 0,
+        price: "Varies",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_204"
     }
 ]
