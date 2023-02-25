@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Japan2023/static/js/main.e7263c20.js",
+    "main.js": "/Japan2023/static/js/main.cd6216c6.js",
     "index.html": "/Japan2023/index.html",
-    "main.e7263c20.js.map": "/Japan2023/static/js/main.e7263c20.js.map"
+    "main.cd6216c6.js.map": "/Japan2023/static/js/main.cd6216c6.js.map"
   },
   "entrypoints": [
-    "static/js/main.e7263c20.js"
+    "static/js/main.cd6216c6.js"
   ]
 }
