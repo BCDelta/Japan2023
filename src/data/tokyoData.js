@@ -36,6 +36,7 @@ export default [
         location: "2F Kondo Building, 2-27-16 Minamiikebukuro, Toshima-ku, Tokyo 171-0022",
         thumbnail: "COLORSOL.jpg",
         reservation: 1,
+        appointment: "03/06 at 9 PM",
         price: "¥980",
         link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_21"
     },
@@ -305,5 +306,16 @@ export default [
         reservation: 0,
         price: "",
         link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_192"
+    },
+    {
+        id: 30,
+        title: "Ginza Steak",
+        description: "A5 Wagyu beef restaurant",
+        location: "Granbell Ginza Ⅱ 8F・9F, 1-5-5 Shinbashi, Minato-ku, Tokyo, 105-0004, Japan",
+        thumbnial: "ginza_steak.png",
+        reservation: 1,
+        appointment: "03/17 at 5:30 PM",
+        price: "$$",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g2077de3aefa_2_0"
     }
 ]

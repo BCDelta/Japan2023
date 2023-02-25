@@ -51,6 +51,7 @@ export default [
         location: "Japan, 〒542-0086 Osaka, Chuo Ward, Nipponbashi, 1 Chome−1−13, Sotetsu Grand Frésa, B1F",
         thumbnail: "Zauo Fishing Market.jpg",
         reservation: 1,
+        appointment: "03/05 at 1 PM",
         price: "Varies",
         link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_162"
     },

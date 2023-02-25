@@ -28,6 +28,7 @@ export default function OsakaCard(props) {
             </div>
             <h1>{props.title}</h1>
             <h4>{props.description}</h4>
+            {props.appointment == null ? <p></p> : <p>{props.appointment}</p>}
             <h6 className = "location">{props.location}</h6>
         </div>
     )
