@@ -282,7 +282,7 @@ export default [
         title: "Hinatoriyama",
         description: "Japanese sushi restaurant where plates are delivered via a small stream.",
         location: "1602-4 Kamiyugi, Hachioji, Tokyo 192-0373, Japan",
-        thumbnail: "Hinatoriyama.jpg",
+        thumbnail: "Hinatoriyama.jpeg",
         reservation: 0,
         price: "¥3,100-¥5,940",
         link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_60"
