@@ -5,7 +5,7 @@ export default [
         description: "Landmark alleyway featuring a selection of food stalls for simple fare and alcoholic drinks.",
         location: "1 Chome-2 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
         thumbnail: "Omoide-Yokocho.jpg",
-        reservation: 1,
+        reservation: 0,
         price: "¥100 - ¥300",
         link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1a3af90751e_0_97"
     },
@@ -146,14 +146,14 @@ export default [
     }, 
     {
         id: 15,
-        title: "Kirby Cafe",
-        description: `Walk into the cafe and enter the Whispy Woods from the Kirby games. Discover many 
-        Kirby-related decorations inside the cafe and let the game-like world transport you inside your favorite character’s world.`,
-        location: "Located on the 4th floor of Tokyo Solamachi, home of Tokyo Skytree.",
-        thumbnail: "Kirby Cafe.jpg",
+        title: "Andaz Roof Bar",
+        description: `Upscale rooftop bar in Tokyo.`,
+        location: "1-23-4 Toranomon, Minato-ku, Tokyo 105-0001",
+        thumbnail: "rooftop_bar.jpg",
         reservation: 1,
-        price: "¥1,200-¥3,000",
-        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1fc41a1938c_0_0"
+        appointment: "03/08 at 8 PM",
+        price: "$$$",
+        link: "https://docs.google.com/presentation/d/1pIUuFZjc4VjIggpgZSSaKb37ynbpDO8k3Sni907fUy8/edit#slide=id.g1f332d486e3_0_0"
     },
     {
         id: 16,
